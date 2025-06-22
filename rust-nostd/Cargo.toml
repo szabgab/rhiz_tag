@@ -6,8 +6,8 @@ description = "Ubiquitous General Purpose Tag"
 authors = ["Jean-Louis Fuchs <safe.pen2857@rhizoome.ch>"]
 license = "MIT OR Apache-2.0"
 readme = "README.md"
-homepage = "http://github.com/rhizoome/rhiz_tag"
-repository = "http://github.com/rhizoome/rhiz_tag"
+homepage = "https://github.com/rhizoome/rhiz_tag"
+repository = "https://github.com/rhizoome/rhiz_tag"
 keywords = ["tag", "no-std", "date-and-time", "archival", "note-taking"]
 categories = ["date-and-time", "no-std", "command-line-utilities"] 
 
